@@ -1,3 +1,5 @@
+#!/home/support/telegram_mcr24_bot/myenv/bin/python
+
 import openai
 import aiogram
 import logging

@@ -266,8 +266,9 @@ async def handle_text(message: types.Message, state: FSMContext):
             longitude = found_values[0][8]
 
 
-
+            print("weather_info_before: ", weather_info)
             weather_info = await get_weather(latitude, longitude, "7cc8daec601b8354e0bc6350592d6f98")
+            print("weather_info: ", weather_info)
             yandex_2023_response = ''
             pokazatel_504p_lines = []
            # ucn2_values = await search_in_ucn2(found_values[0][4])
