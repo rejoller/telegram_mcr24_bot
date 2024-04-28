@@ -1,4 +1,4 @@
-bot_token = '6235250605:AAE6zT8AjON9SucXqbLlRvtcJTrEJ1fZ0BA'
+bot_token = ''
 
 
-SPREADSHEET_ID = '1lA6wXSOmi6nj4HDOpFdzm4_KaUQAAakNNxOyXx7p1ZQ'
+SPREADSHEET_ID = ''
